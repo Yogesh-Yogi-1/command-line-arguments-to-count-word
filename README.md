@@ -20,7 +20,7 @@ End the program by orinting the output.
 ## PROGRAM:
 ```
 \*
-# program to find th word count using command line argument
+# program to find the word count using command line argument
 # Developed by: V. Yogesh
 # register number: 212223230250
 \*

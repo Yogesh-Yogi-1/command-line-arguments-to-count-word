@@ -30,7 +30,8 @@ with open(fname,"r") as f:
   for line in f:
     words=line.split()
     num_words+=len(words)
-print("Number of words: ",num_words) 
+print("Number of words: ",num_words)
+```
 ### OUTPUT:
 ![Screenshot 2024-01-02 210345](https://github.com/Yogesh-Yogi-1/command-line-arguments-to-count-word/assets/148514598/b1c76044-248b-417b-aecc-6780e2b08b4f)
 
